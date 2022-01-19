@@ -1,0 +1,16 @@
+export default [
+  "Generator",
+  "Vents",
+  "Intelligence Center",
+  "Solar Power",
+  "Water Collector",
+  "Nutrition Unit",
+  "Security",
+  "Workbench",
+  "Medstation",
+  "Rest Space",
+  "Lavatory",
+  "Stash",
+  "Heating",
+  "Illumination",
+];

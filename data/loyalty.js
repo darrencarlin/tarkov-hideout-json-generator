@@ -1,0 +1,1 @@
+export default ["Skier","Mechanic","Ragman","Prapor","Therapist","Peacekeeper","Jaeger"]

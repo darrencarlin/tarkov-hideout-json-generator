@@ -1,0 +1,11 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.0.0",
+    "jsdom": "^19.0.0"
+  },
+  "type": "module"
+}
