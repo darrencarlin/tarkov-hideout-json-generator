@@ -1,9 +1,9 @@
 {
   "name": "web-scraping",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^5.0.0",
     "got": "^12.0.0",
     "jsdom": "^19.0.0"
   },

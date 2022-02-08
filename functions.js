@@ -76,8 +76,9 @@ export const parseRequirements = (requirements) => {
   };
 };
 
-// Setting the category for the items (this is the only part in the whole process
-// that needs to be done manually
+// Setting the category for the items. This is the only part in the
+// whole process that will need to be done manually going forward
+// because I choose the categories
 
 export const parseCategory = (itemName) => {
   if (VALUABLE_ITEMS.find((item) => itemName.includes(item))) {
@@ -93,15 +94,64 @@ export const parseCategory = (itemName) => {
   if (ELECTRONIC_ITEMS.find((item) => itemName.includes(item))) {
     return "electronic_items";
   }
+
+  console.log(itemName, "not found");
 };
 
-export const createTraders = (items) => {
-  let traders = [];
-  items.forEach((item) => {
-    if (item.textContent.includes("LL")) {
-      traders.push(item.textContent.split(/(?<=^\S+)\s/)[0].trim());
-    }
-  });
-  const sortedUniqueTraders = [...new Set(traders)].sort((a, b) => a - b);
-  return sortedUniqueTraders;
+/**
+
+verifyItem makes sure that the text content of each individual item doesn't contain any
+of the following strings.
+
+ */
+
+export const verifyItem = (item) => {
+  return (
+    !item.textContent.includes("Level") &&
+    !item.textContent.includes("LL") &&
+    !item.textContent.includes("Purchase of EFT Standard Edition") &&
+    !item.textContent.includes("Purchase of EFT Left Behind") &&
+    !item.textContent.includes("Purchase of EFT Prepare for Escape") &&
+    !item.textContent.includes("Purchase of EFT Edge of Darkness") &&
+    !item.textContent.includes("Or")
+  );
 };
+
+// We can distinguish traders by LL in the text content
+export const verifyTrader = (item) => {
+  return item.textContent.includes("LL");
+};
+// We can distinguish skills by Level in the text content
+export const verifySkill = (item) => {
+  return item.textContent.split(" ")[1] === "Level";
+};
+// We can distinguish modules by Level in the text content
+export const verifyModule = (item) => {
+  return item.textContent.split(" ")[0] === "Level";
+};
+
+export const createCategories = (items, modules) => {
+  const array = [];
+
+  items.forEach((item) => {
+    let count = 0;
+    modules.forEach((innerItem) => {
+      innerItem.item_requirements.forEach((innerInnerItem) => {
+        if (innerInnerItem.item === item) {
+          count += innerInnerItem.need;
+        }
+      });
+    });
+
+    array.push({
+      priority: false,
+      remaining: count,
+      total: count,
+      item: item,
+    });
+  });
+
+  return array;
+};
+
+export const sortUnique = (items) => [...new Set(items)].sort((a, b) => a - b);
