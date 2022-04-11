@@ -99,11 +99,9 @@ export const parseCategory = (itemName) => {
 };
 
 /**
-
 verifyItem makes sure that the text content of each individual item doesn't contain any
 of the following strings.
-
- */
+**/
 
 export const verifyItem = (item) => {
   return (

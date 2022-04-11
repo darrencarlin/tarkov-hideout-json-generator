@@ -195,6 +195,26 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
   } catch (err) {
     console.error(err);
   }
+
+  const history = {
+    hideout_version: version,
+    date: new Date().toLocaleDateString(),
+    items: sortedUniqueItems.length,
+    traders: sortedUniqueTraders.length,
+    skills: sortedUniqueSkills.length,
+    modules: sortedUniqueModules.length,
+  };
+
+  // Append to history
+  try {
+    const data = fs.readFileSync("./data/history.json");
+    const parsedData = JSON.parse(data);
+    parsedData.push(history);
+    fs.writeFileSync("./data/history.json", JSON.stringify(parsedData));
+    console.log(chalk.green("History file written succcesfully ✓"));
+  } catch (err) {
+    console.error(err);
+  }
 };
 
 createHideoutJSONfile("12.12", true);
