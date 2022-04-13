@@ -19,8 +19,6 @@ import {
 
 const { JSDOM } = jsdom;
 
-import http from "http";
-
 // TODO:
 // Track unnaccounted for items (useful for future versions with new items)
 
