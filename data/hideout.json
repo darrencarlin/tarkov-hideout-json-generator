@@ -1,1 +1,2306 @@
-{"percentage":0,"valuable_items":[{"priority":false,"remaining":25000,"total":25000,"item":"Dollars"},{"priority":false,"remaining":2058000,"total":2058000,"item":"Roubles"},{"priority":false,"remaining":1,"total":1,"item":"Factory plan map"},{"priority":false,"remaining":4,"total":4,"item":"Intelligence folder"},{"priority":false,"remaining":3,"total":3,"item":"Diary"},{"priority":false,"remaining":2,"total":2,"item":"Slim diary"},{"priority":false,"remaining":5,"total":5,"item":"Tech manual"},{"priority":false,"remaining":2,"total":2,"item":"Chainlet"},{"priority":false,"remaining":1,"total":1,"item":"Horse figurine"},{"priority":false,"remaining":4,"total":4,"item":"Roler Submariner gold wrist watch"},{"priority":false,"remaining":8,"total":8,"item":"Golden neck chain"},{"priority":false,"remaining":6,"total":6,"item":"Gold skull ring"},{"priority":false,"remaining":4,"total":4,"item":"Bronze lion"},{"priority":false,"remaining":275000,"total":275000,"item":"Euros"},{"priority":false,"remaining":1,"total":1,"item":"Christmas tree ornament (Red)"},{"priority":false,"remaining":1,"total":1,"item":"Christmas tree ornament (Silver)"},{"priority":false,"remaining":1,"total":1,"item":"Christmas tree ornament (Violet)"}],"medical_items":[{"priority":false,"remaining":1,"total":1,"item":"Toilet paper"},{"priority":false,"remaining":1,"total":1,"item":"Toothpaste"},{"priority":false,"remaining":1,"total":1,"item":"Soap"},{"priority":false,"remaining":1,"total":1,"item":"Disposable syringe"},{"priority":false,"remaining":1,"total":1,"item":"Pile of meds"},{"priority":false,"remaining":2,"total":2,"item":"Aseptic bandage"},{"priority":false,"remaining":7,"total":7,"item":"Bottle of saline solution"},{"priority":false,"remaining":2,"total":2,"item":"Medical bloodset"},{"priority":false,"remaining":5,"total":5,"item":"Esmarch tourniquet"},{"priority":false,"remaining":3,"total":3,"item":"Medical tools"},{"priority":false,"remaining":1,"total":1,"item":"Ophthalmoscope"},{"priority":false,"remaining":1,"total":1,"item":"LEDX Skin Transilluminator"},{"priority":false,"remaining":0,"total":0,"item":"Majaica coffee"},{"priority":false,"remaining":3,"total":3,"item":"Pack of sodium bicarbonate"},{"priority":false,"remaining":3,"total":3,"item":"\"Fierce Hatchling\" moonshine"}],"electronic_items":[{"priority":false,"remaining":17,"total":17,"item":"Military power filter"},{"priority":false,"remaining":5,"total":5,"item":"T-Shaped plug"},{"priority":false,"remaining":3,"total":3,"item":"VPX Flash Storage Module"},{"priority":false,"remaining":19,"total":19,"item":"Power cord"},{"priority":false,"remaining":25,"total":25,"item":"Power supply unit"},{"priority":false,"remaining":58,"total":58,"item":"CPU Fan"},{"priority":false,"remaining":20,"total":20,"item":"Printed circuit board"},{"priority":false,"remaining":23,"total":23,"item":"Phase control relay"},{"priority":false,"remaining":21,"total":21,"item":"Electric motor"},{"priority":false,"remaining":1,"total":1,"item":"6-STEN-140-M military battery"},{"priority":false,"remaining":11,"total":11,"item":"Spark plug"},{"priority":false,"remaining":59,"total":59,"item":"Bundle of wires"},{"priority":false,"remaining":14,"total":14,"item":"Light bulb"},{"priority":false,"remaining":12,"total":12,"item":"Capacitors"},{"priority":false,"remaining":15,"total":15,"item":"Energy-saving lamp"},{"priority":false,"remaining":3,"total":3,"item":"Secure Flash drive"},{"priority":false,"remaining":4,"total":4,"item":"Damaged hard drive"},{"priority":false,"remaining":2,"total":2,"item":"Military COFDM wireless Signal Transmitter"},{"priority":false,"remaining":1,"total":1,"item":"Gas analyzer"},{"priority":false,"remaining":14,"total":14,"item":"Military cable"},{"priority":false,"remaining":1,"total":1,"item":"Secured magnetic tape cassette"},{"priority":false,"remaining":5,"total":5,"item":"Electric drill"},{"priority":false,"remaining":1,"total":1,"item":"DVD drive"},{"priority":false,"remaining":1,"total":1,"item":"Magnet"},{"priority":false,"remaining":5,"total":5,"item":"GreenBat lithium battery"},{"priority":false,"remaining":8,"total":8,"item":"NIXXOR lens"},{"priority":false,"remaining":5,"total":5,"item":"Working LCD"},{"priority":false,"remaining":1,"total":1,"item":"SSD drive"},{"priority":false,"remaining":4,"total":4,"item":"Phased array element"},{"priority":false,"remaining":5,"total":5,"item":"Car battery"}],"hardware_items":[{"priority":false,"remaining":5,"total":5,"item":"Gas mask air filter"},{"priority":false,"remaining":5,"total":5,"item":"Military corrugated tube"},{"priority":false,"remaining":19,"total":19,"item":"Silicone tube"},{"priority":false,"remaining":14,"total":14,"item":"Pressure gauge"},{"priority":false,"remaining":11,"total":11,"item":"Radiator helix"},{"priority":false,"remaining":1,"total":1,"item":"Pipe grip wrench"},{"priority":false,"remaining":2,"total":2,"item":"Analog thermometer"},{"priority":false,"remaining":26,"total":26,"item":"Corrugated hose"},{"priority":false,"remaining":1,"total":1,"item":"Bulbex cable cutter"},{"priority":false,"remaining":18,"total":18,"item":"Metal spare parts"},{"priority":false,"remaining":3,"total":3,"item":"Classic matches"},{"priority":false,"remaining":3,"total":3,"item":"Dry fuel"},{"priority":false,"remaining":2,"total":2,"item":"Hunting matches"},{"priority":false,"remaining":4,"total":4,"item":"Crickent lighter"},{"priority":false,"remaining":3,"total":3,"item":"KEKTAPE duct tape"},{"priority":false,"remaining":32,"total":32,"item":"Pack of screws"},{"priority":false,"remaining":1,"total":1,"item":"Sewing Kit"},{"priority":false,"remaining":3,"total":3,"item":"Xenomorph sealing foam"},{"priority":false,"remaining":6,"total":6,"item":"Toolset"},{"priority":false,"remaining":4,"total":4,"item":"Wrench"},{"priority":false,"remaining":2,"total":2,"item":"Alkaline cleaner for heat exchangers"},{"priority":false,"remaining":2,"total":2,"item":"Smoked Chimney drain cleaner"},{"priority":false,"remaining":7,"total":7,"item":"Duct tape"},{"priority":false,"remaining":1,"total":1,"item":"Lucky Scav Junk box"},{"priority":false,"remaining":1,"total":1,"item":"Construction measuring tape"},{"priority":false,"remaining":5,"total":5,"item":"Pliers Elite"},{"priority":false,"remaining":1,"total":1,"item":"TP-200 TNT brick"},{"priority":false,"remaining":5,"total":5,"item":"WD-40 (100ml)"},{"priority":false,"remaining":28,"total":28,"item":"Bolts"},{"priority":false,"remaining":22,"total":22,"item":"Screw nuts"},{"priority":false,"remaining":16,"total":16,"item":"Pack of nails"},{"priority":false,"remaining":1,"total":1,"item":"Hand drill"},{"priority":false,"remaining":10,"total":10,"item":"Shustrilo sealing foam"},{"priority":false,"remaining":3,"total":3,"item":"Ratchet wrench"},{"priority":false,"remaining":1,"total":1,"item":"Leatherman Multitool"},{"priority":false,"remaining":3,"total":3,"item":"Weapon parts"},{"priority":false,"remaining":1,"total":1,"item":"FireKlean gun lube"},{"priority":false,"remaining":2,"total":2,"item":"Can of thermite"}],"hideout_version":"12.12","modules":[{"module":"Air Filtering Unit","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Gas mask air filter"},{"complete":false,"need":25000,"category":"valuable_items","have":0,"item":"Dollars"},{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Military power filter"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Military corrugated tube"}],"module_requirements":[{"item":"Generator, 3"},{"item":"Vents, 3"}],"loyalty_requirements":[{"item":"Skier, 3"}]},{"module":"Bitcoin farm","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"T-Shaped plug"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"VPX Flash Storage Module"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Power cord"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Power supply unit"},{"complete":false,"need":15,"category":"electronic_items","have":0,"item":"CPU Fan"}],"module_requirements":[{"item":"Intelligence Center, 2"}],"loyalty_requirements":[]},{"module":"Bitcoin farm","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":15,"category":"electronic_items","have":0,"item":"CPU Fan"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Power supply unit"},{"complete":false,"need":15,"category":"electronic_items","have":0,"item":"Printed circuit board"},{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Phase control relay"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Military power filter"}],"module_requirements":[{"item":"Generator, 3"}],"loyalty_requirements":[]},{"module":"Bitcoin farm","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":25,"category":"electronic_items","have":0,"item":"CPU Fan"},{"complete":false,"need":15,"category":"hardware_items","have":0,"item":"Silicone tube"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Electric motor"},{"complete":false,"need":10,"category":"hardware_items","have":0,"item":"Pressure gauge"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"6-STEN-140-M military battery"}],"module_requirements":[{"item":"Solar Power, 1"},{"item":"Water Collector, 3"}],"loyalty_requirements":[]},{"module":"Booze generator","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Metal spare parts"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Pressure gauge"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Radiator helix"},{"complete":false,"need":4,"category":"hardware_items","have":0,"item":"Silicone tube"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Pipe grip wrench"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Analog thermometer"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Corrugated hose"}],"module_requirements":[{"item":"Water Collector, 3"},{"item":"Nutrition Unit, 3"}],"loyalty_requirements":[]},{"module":"Generator","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Spark plug"},{"complete":false,"need":100000,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[{"item":"Security, 1"}],"loyalty_requirements":[]},{"module":"Generator","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Bulbex cable cutter"},{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Phase control relay"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Electric motor"},{"complete":false,"need":15,"category":"electronic_items","have":0,"item":"Bundle of wires"}],"module_requirements":[{"item":"Security, 2"},{"item":"Vents, 2"}],"loyalty_requirements":[]},{"module":"Generator","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Power supply unit"},{"complete":false,"need":6,"category":"electronic_items","have":0,"item":"Phase control relay"},{"complete":false,"need":3,"category":"electronic_items","have":0,"item":"Electric motor"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Spark plug"},{"complete":false,"need":7,"category":"hardware_items","have":0,"item":"Metal spare parts"}],"module_requirements":[{"item":"Security, 3"},{"item":"Vents, 3"}],"loyalty_requirements":[{"item":"Mechanic, 3"}]},{"module":"Heating","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":25000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Classic matches"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Heating","level":"2","complete":false,"skill_requirements":[{"item":"Endurance Level, 1"}],"item_requirements":[{"complete":false,"need":50000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Dry fuel"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Hunting matches"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Crickent lighter"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Heating","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":8,"category":"hardware_items","have":0,"item":"Radiator helix"},{"complete":false,"need":8,"category":"electronic_items","have":0,"item":"Bundle of wires"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Phase control relay"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Military corrugated tube"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Workbench, 2"}],"loyalty_requirements":[{"item":"Ragman, 2"}]},{"module":"Illumination","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":10000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Crickent lighter"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Illumination","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":14,"category":"electronic_items","have":0,"item":"Light bulb"},{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Bundle of wires"}],"module_requirements":[{"item":"Generator, 1"}],"loyalty_requirements":[]},{"module":"Illumination","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":50000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":7,"category":"electronic_items","have":0,"item":"Capacitors"},{"complete":false,"need":12,"category":"electronic_items","have":0,"item":"Energy-saving lamp"},{"complete":false,"need":6,"category":"electronic_items","have":0,"item":"Bundle of wires"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Workbench, 1"}],"loyalty_requirements":[{"item":"Mechanic, 2"}]},{"module":"Intelligence Center","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Factory plan map"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Intelligence folder"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Diary"}],"module_requirements":[{"item":"Security, 2"},{"item":"Vents, 2"}],"loyalty_requirements":[]},{"module":"Intelligence Center","level":"2","complete":false,"skill_requirements":[{"item":"Attention Level, 3"}],"item_requirements":[{"complete":false,"need":3,"category":"valuable_items","have":0,"item":"Intelligence folder"},{"complete":false,"need":3,"category":"electronic_items","have":0,"item":"Secure Flash drive"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Power cord"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Damaged hard drive"}],"module_requirements":[{"item":"Security, 3"},{"item":"Medstation, 3"},{"item":"Nutrition Unit, 3"}],"loyalty_requirements":[{"item":"Mechanic, 2"}]},{"module":"Intelligence Center","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Military COFDM wireless Signal Transmitter"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"VPX Flash Storage Module"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Gas analyzer"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Military cable"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Secured magnetic tape cassette"}],"module_requirements":[{"item":"Workbench, 3"},{"item":"Generator, 3"}],"loyalty_requirements":[{"item":"Prapor, 3"}]},{"module":"Lavatory","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Toilet paper"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Toothpaste"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Soap"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Lavatory","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"KEKTAPE duct tape"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Corrugated hose"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Pack of screws"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Electric drill"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Sewing Kit"}],"module_requirements":[{"item":"Water Collector, 1"},{"item":"Vents, 1"}],"loyalty_requirements":[]},{"module":"Lavatory","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Xenomorph sealing foam"},{"complete":false,"need":6,"category":"hardware_items","have":0,"item":"Corrugated hose"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Pressure gauge"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Toolset"}],"module_requirements":[{"item":"Vents, 2"},{"item":"Water Collector, 2"}],"loyalty_requirements":[]},{"module":"Library","level":"1","complete":false,"skill_requirements":[{"item":"Memory Level, 8"}],"item_requirements":[{"complete":false,"need":2,"category":"valuable_items","have":0,"item":"Slim diary"},{"complete":false,"need":2,"category":"valuable_items","have":0,"item":"Diary"},{"complete":false,"need":5,"category":"valuable_items","have":0,"item":"Tech manual"},{"complete":false,"need":2,"category":"valuable_items","have":0,"item":"Chainlet"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Horse figurine"},{"complete":false,"need":400000,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[{"item":"Rest Space, 3"}],"loyalty_requirements":[]},{"module":"Medstation","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":50000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Disposable syringe"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Pile of meds"},{"complete":false,"need":2,"category":"medical_items","have":0,"item":"Aseptic bandage"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Medstation","level":"2","complete":false,"skill_requirements":[{"item":"Health Level, 2"}],"item_requirements":[{"complete":false,"need":3,"category":"medical_items","have":0,"item":"Bottle of saline solution"},{"complete":false,"need":2,"category":"medical_items","have":0,"item":"Medical bloodset"},{"complete":false,"need":5,"category":"medical_items","have":0,"item":"Esmarch tourniquet"},{"complete":false,"need":3,"category":"medical_items","have":0,"item":"Medical tools"},{"complete":false,"need":150000,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[],"loyalty_requirements":[{"item":"Therapist, 2"}]},{"module":"Medstation","level":"3","complete":false,"skill_requirements":[{"item":"Vitality Level, 3"}],"item_requirements":[{"complete":false,"need":1,"category":"medical_items","have":0,"item":"Ophthalmoscope"},{"complete":false,"need":500000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":4,"category":"medical_items","have":0,"item":"Bottle of saline solution"},{"complete":false,"need":1,"category":"medical_items","have":0,"item":"LEDX Skin Transilluminator"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Lavatory, 2"}],"loyalty_requirements":[{"item":"Therapist, 3"},{"item":"Skier, 2"}]},{"module":"Nutrition unit","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Power cord"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Phase control relay"},{"complete":false,"need":25000,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[{"item":"Generator, 1"}],"loyalty_requirements":[]},{"module":"Nutrition unit","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":4,"category":"hardware_items","have":0,"item":"Wrench"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Corrugated hose"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Alkaline cleaner for heat exchangers"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Phase control relay"}],"module_requirements":[{"item":"Lavatory, 2"}],"loyalty_requirements":[]},{"module":"Nutrition unit","level":"3","complete":false,"skill_requirements":[{"item":"Metabolism Level, 3"}],"item_requirements":[{"complete":false,"need":125000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":3,"category":"medical_items","have":0,"item":"Can of Majaica coffee beans"},{"complete":false,"need":3,"category":"medical_items","have":0,"item":"Pack of sodium bicarbonate"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Smoked Chimney drain cleaner"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Lavatory, 3"},{"item":"Stash, 2"}],"loyalty_requirements":[]},{"module":"Rest Space","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":10000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Duct tape"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Classic matches"}],"module_requirements":[{"item":"Vents, 1"}],"loyalty_requirements":[]},{"module":"Rest Space","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":35000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":3,"category":"electronic_items","have":0,"item":"Energy-saving lamp"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"DVD drive"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Magnet"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Heating, 2"}],"loyalty_requirements":[{"item":"Ragman, 2"}]},{"module":"Rest Space","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"GreenBat lithium battery"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Power cord"},{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Capacitors"},{"complete":false,"need":7,"category":"electronic_items","have":0,"item":"Bundle of wires"}],"module_requirements":[{"item":"Generator, 3"},{"item":"Heating, 3"}],"loyalty_requirements":[{"item":"Skier, 3"}]},{"module":"Scav case","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Lucky Scav Junk box"},{"complete":false,"need":3,"category":"medical_items","have":0,"item":"\"Fierce Hatchling\" moonshine"},{"complete":false,"need":4,"category":"valuable_items","have":0,"item":"Roler Submariner gold wrist watch"},{"complete":false,"need":8,"category":"valuable_items","have":0,"item":"Golden neck chain"},{"complete":false,"need":6,"category":"valuable_items","have":0,"item":"Gold skull ring"},{"complete":false,"need":4,"category":"valuable_items","have":0,"item":"Bronze lion"}],"module_requirements":[{"item":"Intelligence Center, 2"}],"loyalty_requirements":[]},{"module":"Security","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":20000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Construction measuring tape"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Security","level":"2","complete":false,"skill_requirements":[{"item":"Endurance Level, 2"}],"item_requirements":[{"complete":false,"need":45000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Pliers Elite"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"TP-200 TNT brick"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"WD-40 (100ml)"}],"module_requirements":[{"item":"Illumination, 1"}],"loyalty_requirements":[]},{"module":"Security","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":8,"category":"electronic_items","have":0,"item":"NIXXOR lens"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Working LCD"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Bundle of wires"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"SSD drive"}],"module_requirements":[{"item":"Illumination, 3"}],"loyalty_requirements":[{"item":"Mechanic, 2"}]},{"module":"Shooting range","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Metal spare parts"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Pack of screws"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Duct tape"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Bolts"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Screw nuts"},{"complete":false,"need":4,"category":"hardware_items","have":0,"item":"Pack of nails"}],"module_requirements":[{"item":"Illumination, 2"}],"loyalty_requirements":[]},{"module":"Solar power","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Phased array element"},{"complete":false,"need":75000,"category":"valuable_items","have":0,"item":"Euros"},{"complete":false,"need":3,"category":"electronic_items","have":0,"item":"Working LCD"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Military cable"},{"complete":false,"need":10,"category":"electronic_items","have":0,"item":"Military power filter"}],"module_requirements":[{"item":"Generator, 3"},{"item":"Workbench, 3"}],"loyalty_requirements":[{"item":"Peacekeeper, 4"}]},{"module":"Stash","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":4,"category":"hardware_items","have":0,"item":"WD-40 (100ml)"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Hand drill"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Pack of nails"},{"complete":false,"need":10,"category":"hardware_items","have":0,"item":"Pack of screws"},{"complete":false,"need":2500,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[{"item":"Vents, 1"}],"loyalty_requirements":[]},{"module":"Stash","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Electric drill"},{"complete":false,"need":15,"category":"hardware_items","have":0,"item":"Pack of screws"},{"complete":false,"need":7,"category":"hardware_items","have":0,"item":"Pack of nails"},{"complete":false,"need":8500,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[{"item":"Vents, 2"},{"item":"Heating, 2"}],"loyalty_requirements":[{"item":"Prapor, 3"},{"item":"Ragman, 3"}]},{"module":"Stash","level":"4","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":200000,"category":"valuable_items","have":0,"item":"Euros"},{"complete":false,"need":10,"category":"hardware_items","have":0,"item":"Screw nuts"},{"complete":false,"need":10,"category":"hardware_items","have":0,"item":"Bolts"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Shustrilo sealing foam"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Ratchet wrench"}],"module_requirements":[{"item":"Generator, 3"},{"item":"Workbench, 3"},{"item":"Heating, 3"},{"item":"Intelligence Center, 2"}],"loyalty_requirements":[{"item":"Peacekeeper, 4"},{"item":"Ragman, 4"}]},{"module":"Vents","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":25000,"category":"valuable_items","have":0,"item":"Roubles"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Vents","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Metal spare parts"},{"complete":false,"need":3,"category":"electronic_items","have":0,"item":"CPU Fan"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Car battery"},{"complete":false,"need":1,"category":"electronic_items","have":0,"item":"Electric motor"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Vents","level":"3","complete":false,"skill_requirements":[{"item":"Strength Level, 2"}],"item_requirements":[{"complete":false,"need":5,"category":"electronic_items","have":0,"item":"Printed circuit board"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Electric motor"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Metal spare parts"},{"complete":false,"need":14,"category":"electronic_items","have":0,"item":"Bundle of wires"},{"complete":false,"need":4,"category":"electronic_items","have":0,"item":"Car battery"}],"module_requirements":[{"item":"Generator, 2"}],"loyalty_requirements":[]},{"module":"Water collector","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Duct tape"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Screw nuts"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Bolts"},{"complete":false,"need":4,"category":"hardware_items","have":0,"item":"Corrugated hose"}],"module_requirements":[{"item":"Security, 1"}],"loyalty_requirements":[]},{"module":"Water collector","level":"2","complete":false,"skill_requirements":[{"item":"Attention Level, 3"}],"item_requirements":[{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Toolset"},{"complete":false,"need":6,"category":"hardware_items","have":0,"item":"Corrugated hose"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Electric motor"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"KEKTAPE duct tape"}],"module_requirements":[{"item":"Workbench, 2"}],"loyalty_requirements":[{"item":"Jaeger, 2"}]},{"module":"Water collector","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Ratchet wrench"},{"complete":false,"need":20000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Pliers Elite"},{"complete":false,"need":5,"category":"hardware_items","have":0,"item":"Shustrilo sealing foam"}],"module_requirements":[{"item":"Generator, 3"},{"item":"Heating, 3"}],"loyalty_requirements":[{"item":"Jaeger, 3"}]},{"module":"Workbench","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Screw nuts"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Bolts"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"Leatherman Multitool"}],"module_requirements":[],"loyalty_requirements":[]},{"module":"Workbench","level":"2","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Toolset"},{"complete":false,"need":2,"category":"electronic_items","have":0,"item":"Electric drill"},{"complete":false,"need":6,"category":"hardware_items","have":0,"item":"Bolts"},{"complete":false,"need":3,"category":"hardware_items","have":0,"item":"Weapon parts"}],"module_requirements":[{"item":"Illumination, 2"}],"loyalty_requirements":[{"item":"Mechanic, 2"}]},{"module":"Workbench","level":"3","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":395000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Pliers Elite"},{"complete":false,"need":1,"category":"hardware_items","have":0,"item":"FireKlean gun lube"},{"complete":false,"need":2,"category":"hardware_items","have":0,"item":"Can of thermite"}],"module_requirements":[{"item":"Generator, 2"},{"item":"Stash, 2"}],"loyalty_requirements":[{"item":"Mechanic, 3"}]},{"module":"Christmas tree","level":"1","complete":false,"skill_requirements":[],"item_requirements":[{"complete":false,"need":10000,"category":"valuable_items","have":0,"item":"Roubles"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Christmas tree ornament (Red)"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Christmas tree ornament (Silver)"},{"complete":false,"need":1,"category":"valuable_items","have":0,"item":"Christmas tree ornament (Violet)"}],"module_requirements":[{"item":"Generator, 1"}],"loyalty_requirements":[]}]}
+{
+  "percentage": 0,
+  "valuable_items": [
+    {
+      "priority": false,
+      "remaining": 25000,
+      "total": 25000,
+      "item": "Dollars"
+    },
+    {
+      "priority": false,
+      "remaining": 2058000,
+      "total": 2058000,
+      "item": "Roubles"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Factory plan map"
+    },
+    {
+      "priority": false,
+      "remaining": 4,
+      "total": 4,
+      "item": "Intelligence folder"
+    },
+    { "priority": false, "remaining": 3, "total": 3, "item": "Diary" },
+    { "priority": false, "remaining": 2, "total": 2, "item": "Slim diary" },
+    { "priority": false, "remaining": 5, "total": 5, "item": "Tech manual" },
+    { "priority": false, "remaining": 2, "total": 2, "item": "Chainlet" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Horse figurine" },
+    {
+      "priority": false,
+      "remaining": 4,
+      "total": 4,
+      "item": "Roler Submariner gold wrist watch"
+    },
+    {
+      "priority": false,
+      "remaining": 8,
+      "total": 8,
+      "item": "Golden neck chain"
+    },
+    {
+      "priority": false,
+      "remaining": 6,
+      "total": 6,
+      "item": "Gold skull ring"
+    },
+    { "priority": false, "remaining": 4, "total": 4, "item": "Bronze lion" },
+    { "priority": false, "remaining": 275000, "total": 275000, "item": "Euros" }
+  ],
+  "medical_items": [
+    { "priority": false, "remaining": 1, "total": 1, "item": "Toilet paper" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Toothpaste" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Soap" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Disposable syringe"
+    },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Pile of meds" },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Aseptic bandage"
+    },
+    {
+      "priority": false,
+      "remaining": 7,
+      "total": 7,
+      "item": "Bottle of saline solution"
+    },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Medical bloodset"
+    },
+    {
+      "priority": false,
+      "remaining": 5,
+      "total": 5,
+      "item": "Esmarch tourniquet"
+    },
+    { "priority": false, "remaining": 3, "total": 3, "item": "Medical tools" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Ophthalmoscope" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "LEDX Skin Transilluminator"
+    },
+    { "priority": false, "remaining": 0, "total": 0, "item": "Majaica coffee" },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "Pack of sodium bicarbonate"
+    },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "\"Fierce Hatchling\" moonshine"
+    }
+  ],
+  "electronic_items": [
+    {
+      "priority": false,
+      "remaining": 17,
+      "total": 17,
+      "item": "Military power filter"
+    },
+    { "priority": false, "remaining": 5, "total": 5, "item": "T-Shaped plug" },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "VPX Flash Storage Module"
+    },
+    { "priority": false, "remaining": 19, "total": 19, "item": "Power cord" },
+    {
+      "priority": false,
+      "remaining": 25,
+      "total": 25,
+      "item": "Power supply unit"
+    },
+    { "priority": false, "remaining": 58, "total": 58, "item": "CPU Fan" },
+    {
+      "priority": false,
+      "remaining": 20,
+      "total": 20,
+      "item": "Printed circuit board"
+    },
+    {
+      "priority": false,
+      "remaining": 23,
+      "total": 23,
+      "item": "Phase control relay"
+    },
+    {
+      "priority": false,
+      "remaining": 21,
+      "total": 21,
+      "item": "Electric motor"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "6-STEN-140-M military battery"
+    },
+    { "priority": false, "remaining": 11, "total": 11, "item": "Spark plug" },
+    {
+      "priority": false,
+      "remaining": 59,
+      "total": 59,
+      "item": "Bundle of wires"
+    },
+    { "priority": false, "remaining": 14, "total": 14, "item": "Light bulb" },
+    { "priority": false, "remaining": 12, "total": 12, "item": "Capacitors" },
+    {
+      "priority": false,
+      "remaining": 15,
+      "total": 15,
+      "item": "Energy-saving lamp"
+    },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "Secure Flash drive"
+    },
+    {
+      "priority": false,
+      "remaining": 4,
+      "total": 4,
+      "item": "Damaged hard drive"
+    },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Military COFDM wireless Signal Transmitter"
+    },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Gas analyzer" },
+    {
+      "priority": false,
+      "remaining": 14,
+      "total": 14,
+      "item": "Military cable"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Secured magnetic tape cassette"
+    },
+    { "priority": false, "remaining": 5, "total": 5, "item": "Electric drill" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "DVD drive" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Magnet" },
+    {
+      "priority": false,
+      "remaining": 5,
+      "total": 5,
+      "item": "GreenBat lithium battery"
+    },
+    { "priority": false, "remaining": 8, "total": 8, "item": "NIXXOR lens" },
+    { "priority": false, "remaining": 5, "total": 5, "item": "Working LCD" },
+    { "priority": false, "remaining": 1, "total": 1, "item": "SSD drive" },
+    {
+      "priority": false,
+      "remaining": 4,
+      "total": 4,
+      "item": "Phased array element"
+    },
+    { "priority": false, "remaining": 5, "total": 5, "item": "Car battery" }
+  ],
+  "hardware_items": [
+    {
+      "priority": false,
+      "remaining": 5,
+      "total": 5,
+      "item": "Gas mask air filter"
+    },
+    {
+      "priority": false,
+      "remaining": 5,
+      "total": 5,
+      "item": "Military corrugated tube"
+    },
+    {
+      "priority": false,
+      "remaining": 19,
+      "total": 19,
+      "item": "Silicone tube"
+    },
+    {
+      "priority": false,
+      "remaining": 14,
+      "total": 14,
+      "item": "Pressure gauge"
+    },
+    {
+      "priority": false,
+      "remaining": 11,
+      "total": 11,
+      "item": "Radiator helix"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Pipe grip wrench"
+    },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Analog thermometer"
+    },
+    {
+      "priority": false,
+      "remaining": 26,
+      "total": 26,
+      "item": "Corrugated hose"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Bulbex cable cutter"
+    },
+    {
+      "priority": false,
+      "remaining": 18,
+      "total": 18,
+      "item": "Metal spare parts"
+    },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "Classic matches"
+    },
+    { "priority": false, "remaining": 3, "total": 3, "item": "Dry fuel" },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Hunting matches"
+    },
+    {
+      "priority": false,
+      "remaining": 4,
+      "total": 4,
+      "item": "Crickent lighter"
+    },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "KEKTAPE duct tape"
+    },
+    {
+      "priority": false,
+      "remaining": 32,
+      "total": 32,
+      "item": "Pack of screws"
+    },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Sewing Kit" },
+    {
+      "priority": false,
+      "remaining": 3,
+      "total": 3,
+      "item": "Xenomorph sealing foam"
+    },
+    { "priority": false, "remaining": 6, "total": 6, "item": "Toolset" },
+    { "priority": false, "remaining": 4, "total": 4, "item": "Wrench" },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Alkaline cleaner for heat exchangers"
+    },
+    {
+      "priority": false,
+      "remaining": 2,
+      "total": 2,
+      "item": "Smoked Chimney drain cleaner"
+    },
+    { "priority": false, "remaining": 7, "total": 7, "item": "Duct tape" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Lucky Scav Junk box"
+    },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Construction measuring tape"
+    },
+    { "priority": false, "remaining": 5, "total": 5, "item": "Pliers Elite" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "TP-200 TNT brick"
+    },
+    { "priority": false, "remaining": 5, "total": 5, "item": "WD-40 (100ml)" },
+    { "priority": false, "remaining": 28, "total": 28, "item": "Bolts" },
+    { "priority": false, "remaining": 22, "total": 22, "item": "Screw nuts" },
+    {
+      "priority": false,
+      "remaining": 16,
+      "total": 16,
+      "item": "Pack of nails"
+    },
+    { "priority": false, "remaining": 1, "total": 1, "item": "Hand drill" },
+    {
+      "priority": false,
+      "remaining": 10,
+      "total": 10,
+      "item": "Shustrilo sealing foam"
+    },
+    { "priority": false, "remaining": 3, "total": 3, "item": "Ratchet wrench" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "Leatherman Multitool"
+    },
+    { "priority": false, "remaining": 3, "total": 3, "item": "Weapon parts" },
+    {
+      "priority": false,
+      "remaining": 1,
+      "total": 1,
+      "item": "FireKlean gun lube"
+    },
+    { "priority": false, "remaining": 2, "total": 2, "item": "Can of thermite" }
+  ],
+  "hideout_version": "12.13",
+  "modules": [
+    {
+      "module": "Air Filtering Unit",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Gas mask air filter"
+        },
+        {
+          "complete": false,
+          "need": 25000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Dollars"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military power filter"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Military corrugated tube"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 3" },
+        { "item": "Vents, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Skier, 3" }]
+    },
+    {
+      "module": "Bitcoin farm",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "T-Shaped plug"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "VPX Flash Storage Module"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power cord"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power supply unit"
+        },
+        {
+          "complete": false,
+          "need": 15,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "CPU Fan"
+        }
+      ],
+      "module_requirements": [{ "item": "Intelligence Center, 2" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Bitcoin farm",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 15,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "CPU Fan"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power supply unit"
+        },
+        {
+          "complete": false,
+          "need": 15,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Printed circuit board"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military power filter"
+        }
+      ],
+      "module_requirements": [{ "item": "Generator, 3" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Bitcoin farm",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 25,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "CPU Fan"
+        },
+        {
+          "complete": false,
+          "need": 15,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Silicone tube"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pressure gauge"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "6-STEN-140-M military battery"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Solar Power, 1" },
+        { "item": "Water Collector, 3" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Booze generator",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Metal spare parts"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pressure gauge"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Radiator helix"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Silicone tube"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pipe grip wrench"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Analog thermometer"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Water Collector, 3" },
+        { "item": "Nutrition Unit, 3" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Generator",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Spark plug"
+        },
+        {
+          "complete": false,
+          "need": 100000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [{ "item": "Security, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Generator",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bulbex cable cutter"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        },
+        {
+          "complete": false,
+          "need": 15,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Security, 2" },
+        { "item": "Vents, 2" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Generator",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power supply unit"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Spark plug"
+        },
+        {
+          "complete": false,
+          "need": 7,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Metal spare parts"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Security, 3" },
+        { "item": "Vents, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Mechanic, 3" }]
+    },
+    {
+      "module": "Heating",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 25000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Classic matches"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Heating",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [{ "item": "Endurance Level, 1" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 50000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Dry fuel"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Hunting matches"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Crickent lighter"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Heating",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 8,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Radiator helix"
+        },
+        {
+          "complete": false,
+          "need": 8,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Military corrugated tube"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Workbench, 2" }
+      ],
+      "loyalty_requirements": [{ "item": "Ragman, 2" }]
+    },
+    {
+      "module": "Illumination",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 10000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Crickent lighter"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Illumination",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 14,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Light bulb"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        }
+      ],
+      "module_requirements": [{ "item": "Generator, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Illumination",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 50000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 7,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Capacitors"
+        },
+        {
+          "complete": false,
+          "need": 12,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Energy-saving lamp"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Workbench, 1" }
+      ],
+      "loyalty_requirements": [{ "item": "Mechanic, 2" }]
+    },
+    {
+      "module": "Intelligence Center",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Factory plan map"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Intelligence folder"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Diary"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Security, 2" },
+        { "item": "Vents, 2" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Intelligence Center",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [{ "item": "Attention Level, 3" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 3,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Intelligence folder"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Secure Flash drive"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power cord"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Damaged hard drive"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Security, 3" },
+        { "item": "Medstation, 3" },
+        { "item": "Nutrition Unit, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Mechanic, 2" }]
+    },
+    {
+      "module": "Intelligence Center",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military COFDM wireless Signal Transmitter"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "VPX Flash Storage Module"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Gas analyzer"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military cable"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Secured magnetic tape cassette"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Workbench, 3" },
+        { "item": "Generator, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Prapor, 3" }]
+    },
+    {
+      "module": "Lavatory",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Toilet paper"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Toothpaste"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Soap"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Lavatory",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "KEKTAPE duct tape"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of screws"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric drill"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Sewing Kit"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Water Collector, 1" },
+        { "item": "Vents, 1" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Lavatory",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Xenomorph sealing foam"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pressure gauge"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Toolset"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Vents, 2" },
+        { "item": "Water Collector, 2" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Library",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [{ "item": "Memory Level, 8" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Slim diary"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Diary"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Tech manual"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Chainlet"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Horse figurine"
+        },
+        {
+          "complete": false,
+          "need": 400000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [{ "item": "Rest Space, 3" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Medstation",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 50000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Disposable syringe"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Pile of meds"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Aseptic bandage"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Medstation",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [{ "item": "Health Level, 2" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 3,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Bottle of saline solution"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Medical bloodset"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Esmarch tourniquet"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Medical tools"
+        },
+        {
+          "complete": false,
+          "need": 150000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": [{ "item": "Therapist, 2" }]
+    },
+    {
+      "module": "Medstation",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [{ "item": "Vitality Level, 3" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Ophthalmoscope"
+        },
+        {
+          "complete": false,
+          "need": 500000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Bottle of saline solution"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "medical_items",
+          "have": 0,
+          "item": "LEDX Skin Transilluminator"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Lavatory, 2" }
+      ],
+      "loyalty_requirements": [
+        { "item": "Therapist, 3" },
+        { "item": "Skier, 2" }
+      ]
+    },
+    {
+      "module": "Nutrition unit",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power cord"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        },
+        {
+          "complete": false,
+          "need": 25000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [{ "item": "Generator, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Nutrition unit",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 4,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Wrench"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Alkaline cleaner for heat exchangers"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phase control relay"
+        }
+      ],
+      "module_requirements": [{ "item": "Lavatory, 2" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Nutrition unit",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [{ "item": "Metabolism Level, 3" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 125000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Can of Majaica coffee beans"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "medical_items",
+          "have": 0,
+          "item": "Pack of sodium bicarbonate"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Smoked Chimney drain cleaner"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Lavatory, 3" },
+        { "item": "Stash, 2" }
+      ],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Rest Space",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 10000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Duct tape"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Classic matches"
+        }
+      ],
+      "module_requirements": [{ "item": "Vents, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Rest Space",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 35000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Energy-saving lamp"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "DVD drive"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Magnet"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Heating, 2" }
+      ],
+      "loyalty_requirements": [{ "item": "Ragman, 2" }]
+    },
+    {
+      "module": "Rest Space",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "GreenBat lithium battery"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Power cord"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Capacitors"
+        },
+        {
+          "complete": false,
+          "need": 7,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 3" },
+        { "item": "Heating, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Skier, 3" }]
+    },
+    {
+      "module": "Scav case",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Lucky Scav Junk box"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "medical_items",
+          "have": 0,
+          "item": "\"Fierce Hatchling\" moonshine"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roler Submariner gold wrist watch"
+        },
+        {
+          "complete": false,
+          "need": 8,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Golden neck chain"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Gold skull ring"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Bronze lion"
+        }
+      ],
+      "module_requirements": [{ "item": "Intelligence Center, 2" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Security",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 20000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Construction measuring tape"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Security",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [{ "item": "Endurance Level, 2" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 45000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pliers Elite"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "TP-200 TNT brick"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "WD-40 (100ml)"
+        }
+      ],
+      "module_requirements": [{ "item": "Illumination, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Security",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 8,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "NIXXOR lens"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Working LCD"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "SSD drive"
+        }
+      ],
+      "module_requirements": [{ "item": "Illumination, 3" }],
+      "loyalty_requirements": [{ "item": "Mechanic, 2" }]
+    },
+    {
+      "module": "Shooting range",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Metal spare parts"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of screws"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Duct tape"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bolts"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Screw nuts"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of nails"
+        }
+      ],
+      "module_requirements": [{ "item": "Illumination, 2" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Solar power",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Phased array element"
+        },
+        {
+          "complete": false,
+          "need": 75000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Euros"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Working LCD"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military cable"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Military power filter"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 3" },
+        { "item": "Workbench, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Peacekeeper, 4" }]
+    },
+    {
+      "module": "Stash",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 4,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "WD-40 (100ml)"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Hand drill"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of nails"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of screws"
+        },
+        {
+          "complete": false,
+          "need": 2500,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [{ "item": "Vents, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Stash",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric drill"
+        },
+        {
+          "complete": false,
+          "need": 15,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of screws"
+        },
+        {
+          "complete": false,
+          "need": 7,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pack of nails"
+        },
+        {
+          "complete": false,
+          "need": 8500,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [{ "item": "Vents, 2" }, { "item": "Heating, 2" }],
+      "loyalty_requirements": [{ "item": "Prapor, 3" }, { "item": "Ragman, 3" }]
+    },
+    {
+      "module": "Stash",
+      "level": "4",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 200000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Euros"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Screw nuts"
+        },
+        {
+          "complete": false,
+          "need": 10,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bolts"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Shustrilo sealing foam"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Ratchet wrench"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 3" },
+        { "item": "Workbench, 3" },
+        { "item": "Heating, 3" },
+        { "item": "Intelligence Center, 2" }
+      ],
+      "loyalty_requirements": [
+        { "item": "Peacekeeper, 4" },
+        { "item": "Ragman, 4" }
+      ]
+    },
+    {
+      "module": "Vents",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 25000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Vents",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Metal spare parts"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "CPU Fan"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Car battery"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Vents",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [{ "item": "Strength Level, 2" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 5,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Printed circuit board"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Metal spare parts"
+        },
+        {
+          "complete": false,
+          "need": 14,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Bundle of wires"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Car battery"
+        }
+      ],
+      "module_requirements": [{ "item": "Generator, 2" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Water collector",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Duct tape"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Screw nuts"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bolts"
+        },
+        {
+          "complete": false,
+          "need": 4,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        }
+      ],
+      "module_requirements": [{ "item": "Security, 1" }],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Water collector",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [{ "item": "Attention Level, 3" }],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Toolset"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Corrugated hose"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric motor"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "KEKTAPE duct tape"
+        }
+      ],
+      "module_requirements": [{ "item": "Workbench, 2" }],
+      "loyalty_requirements": [{ "item": "Jaeger, 2" }]
+    },
+    {
+      "module": "Water collector",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Ratchet wrench"
+        },
+        {
+          "complete": false,
+          "need": 20000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pliers Elite"
+        },
+        {
+          "complete": false,
+          "need": 5,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Shustrilo sealing foam"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 3" },
+        { "item": "Heating, 3" }
+      ],
+      "loyalty_requirements": [{ "item": "Jaeger, 3" }]
+    },
+    {
+      "module": "Workbench",
+      "level": "1",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Screw nuts"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bolts"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Leatherman Multitool"
+        }
+      ],
+      "module_requirements": [],
+      "loyalty_requirements": []
+    },
+    {
+      "module": "Workbench",
+      "level": "2",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Toolset"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "electronic_items",
+          "have": 0,
+          "item": "Electric drill"
+        },
+        {
+          "complete": false,
+          "need": 6,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Bolts"
+        },
+        {
+          "complete": false,
+          "need": 3,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Weapon parts"
+        }
+      ],
+      "module_requirements": [{ "item": "Illumination, 2" }],
+      "loyalty_requirements": [{ "item": "Mechanic, 2" }]
+    },
+    {
+      "module": "Workbench",
+      "level": "3",
+      "complete": false,
+      "skill_requirements": [],
+      "item_requirements": [
+        {
+          "complete": false,
+          "need": 395000,
+          "category": "valuable_items",
+          "have": 0,
+          "item": "Roubles"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Pliers Elite"
+        },
+        {
+          "complete": false,
+          "need": 1,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "FireKlean gun lube"
+        },
+        {
+          "complete": false,
+          "need": 2,
+          "category": "hardware_items",
+          "have": 0,
+          "item": "Can of thermite"
+        }
+      ],
+      "module_requirements": [
+        { "item": "Generator, 2" },
+        { "item": "Stash, 2" }
+      ],
+      "loyalty_requirements": [{ "item": "Mechanic, 3" }]
+    }
+  ]
+}

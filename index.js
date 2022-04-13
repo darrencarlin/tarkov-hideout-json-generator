@@ -2,6 +2,7 @@ import chalk from "chalk";
 import fs from "fs";
 import got from "got";
 import jsdom from "jsdom";
+import inquirer from "inquirer";
 import ELECTRONIC_ITEMS from "./data/categories/electronic.js";
 import HARDWARE_ITEMS from "./data/categories/hardware.js";
 import MEDICAL_ITEMS from "./data/categories/medical.js";
@@ -18,11 +19,36 @@ import {
 } from "./functions.js";
 
 const { JSDOM } = jsdom;
-
 // TODO:
 // Track unnaccounted for items (useful for future versions with new items)
 
-const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
+let version;
+let includeChristmasTree;
+
+var questions = [
+  {
+    type: "input",
+    name: "version",
+    message: "What is the version of the game?",
+  },
+  {
+    type: "input",
+    name: "includeChristmasTree",
+    message: "Do you want to include the christmas tree? y/n",
+  },
+];
+
+inquirer
+  .prompt(questions)
+  .then((answers) => {
+    version = answers["version"];
+    answers["includeChristmasTree"] === "y"
+      ? (includeChristmasTree = true)
+      : (includeChristmasTree = false);
+  })
+  .then(() => createHideoutJSONfile(version, includeChristmasTree));
+
+const createHideoutJSONfile = async (version, includeChristmasTree) => {
   // Getting the data from the wiki
   const url = "https://escapefromtarkov.fandom.com/wiki/Hideout";
   const response = await got(url);
@@ -187,8 +213,16 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
     }
   });
 
+  // filter out christmas tree
+
   if (!includeChristmasTree) {
     hideout.modules.pop();
+
+    hideout.valuable_items = hideout.valuable_items.filter(
+      (item) =>
+        // filter items that include christmas in their name
+        !item.item.includes("Christmas")
+    );
   }
 
   // filter out stash level 1
@@ -233,5 +267,3 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
     });
   }
 };
-
-createHideoutJSONfile("12.12", true);
