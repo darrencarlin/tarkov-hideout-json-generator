@@ -6,6 +6,7 @@ import VALUABLE_ITEMS from "./data/categories/valuable.js";
 import HARDWARE_ITEMS from "./data/categories/hardware.js";
 import MEDICAL_ITEMS from "./data/categories/medical.js";
 import ELECTRONIC_ITEMS from "./data/categories/electronic.js";
+import chalk from "chalk";
 
 export const parseRequirements = (requirements) => {
   // Use this function to cover different types of requirements so they can be set correctly in the JSON
@@ -16,6 +17,7 @@ export const parseRequirements = (requirements) => {
   const itemRequirements = [];
   const moduleRequirements = [];
   const loyaltyRequirements = [];
+  const notFoundItems = [];
 
   // Modules are simple, just an obj as { "item": "module" }
   requirements.forEach((requirement) => {
@@ -57,13 +59,19 @@ export const parseRequirements = (requirements) => {
         // lookbehind regex (splitting on the first space)
         const [amount, item] = requirement.split(/(?<=^\S+)\s/);
 
-        itemRequirements.push({
-          complete: false,
-          need: parseInt(amount.replace(",", "")),
-          category: parseCategory(item),
-          have: 0,
-          item: item,
-        });
+        const category = parseCategory(item);
+
+        if (category) {
+          itemRequirements.push({
+            complete: false,
+            need: parseInt(amount.replace(",", "")),
+            category: parseCategory(item),
+            have: 0,
+            item: item,
+          });
+        } else {
+          notFoundItems.push(item);
+        }
       }
     });
   });
@@ -73,6 +81,7 @@ export const parseRequirements = (requirements) => {
     loyaltyRequirements,
     itemRequirements,
     moduleRequirements,
+    notFoundItems,
   };
 };
 
@@ -95,7 +104,7 @@ export const parseCategory = (itemName) => {
     return "electronic_items";
   }
 
-  console.log(itemName, "not found");
+  return false;
 };
 
 /**
@@ -150,6 +159,29 @@ export const createCategories = (items, modules) => {
   });
 
   return array;
+};
+
+// This function is used at the end of the script to validate that
+// the modules have categories.
+
+export const verifyCategories = (modules) => {
+  const noCategories = [];
+  modules.forEach((item) => {
+    item.item_requirements.forEach((innerItem) => {
+      if (!innerItem.category) {
+        noCategories.push(
+          `${item.module} - ${item.level} is missing category field`
+        );
+      }
+    });
+  });
+
+  if (noCategories.length > 0) {
+    console.log(chalk.red("The following modules don't have a category"));
+    noCategories.forEach((item) => {
+      console.log(item);
+    });
+  }
 };
 
 export const sortUnique = (items) => [...new Set(items)].sort((a, b) => a - b);

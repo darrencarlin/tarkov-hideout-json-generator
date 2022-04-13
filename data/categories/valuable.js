@@ -4,7 +4,7 @@ export default [
   "Dollars",
   "Roubles",
   "Factory plan map",
-  "Folder with intelligence",
+  "Intelligence folder",
   "Diary",
   "Slim diary",
   "Tech manual",

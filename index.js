@@ -1,25 +1,27 @@
+import chalk from "chalk";
 import fs from "fs";
 import got from "got";
 import jsdom from "jsdom";
-import chalk from "chalk";
+import ELECTRONIC_ITEMS from "./data/categories/electronic.js";
+import HARDWARE_ITEMS from "./data/categories/hardware.js";
+import MEDICAL_ITEMS from "./data/categories/medical.js";
+import VALUABLE_ITEMS from "./data/categories/valuable.js";
 import {
   createCategories,
   parseRequirements,
   sortUnique,
+  verifyCategories,
   verifyItem,
   verifyModule,
   verifySkill,
   verifyTrader,
 } from "./functions.js";
-import VALUABLE_ITEMS from "./data/categories/valuable.js";
-import ELECTRONIC_ITEMS from "./data/categories/electronic.js";
-import MEDICAL_ITEMS from "./data/categories/medical.js";
-import HARDWARE_ITEMS from "./data/categories/hardware.js";
 
 const { JSDOM } = jsdom;
 
-// TODO:
+import http from "http";
 
+// TODO:
 // Track unnaccounted for items (useful for future versions with new items)
 
 const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
@@ -33,7 +35,6 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
   );
 
   // Hideout schema
-
   let hideout = {
     percentage: 0,
     valuable_items: [],
@@ -48,10 +49,10 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
   const traders = [];
   const modules = [];
   const skills = [];
+  const notFoundItems = [];
 
   nodeList.forEach((node) => {
     // First we write the items (without amounts, commas, traders, modules etc)
-
     const allItems = Array.from(
       node.querySelectorAll("tbody > tr:nth-child(n+3) > td:nth-child(2) li")
     );
@@ -62,9 +63,7 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
       const verifiedSKill = verifySkill(item);
       const verifiedModule = verifyModule(item);
 
-      const notFound =
-        !verifiedItem && !verifiedTrader && !verifiedSKill && !verifiedModule;
-
+      // formatting the item names
       if (verifiedItem) {
         // e.g "395,000 Roubles" => "Roubles"
         items.push(
@@ -90,8 +89,12 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
         modules.push(item.textContent.split(/(\d)/)[2].trim()); // Split the text on the first digit
       }
 
+      // if the item from the site doesn't match any of the expected formats, we add it to the notFoundItems array
+      const notFound =
+        !verifiedItem && !verifiedTrader && !verifiedSKill && !verifiedModule;
+
       if (notFound) {
-        console.log(item.textContent, ": not found");
+        notFoundItems.push(item.textContent);
       }
     });
 
@@ -121,6 +124,8 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
         module_requirements: parsedRequirements.moduleRequirements,
         loyalty_requirements: parsedRequirements.loyaltyRequirements,
       });
+
+      notFoundItems.push(...parsedRequirements.notFoundItems);
     });
   });
 
@@ -188,6 +193,11 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
     hideout.modules.pop();
   }
 
+  // filter out stash level 1
+  hideout.modules = hideout.modules.filter(
+    (item) => !(item.module === "Stash" && item.level === "1")
+  );
+
   // Create the JSON file
   try {
     fs.writeFileSync("./data/hideout.json", JSON.stringify(hideout));
@@ -214,6 +224,15 @@ const createHideoutJSONfile = async (version = 12.12, includeChristmasTree) => {
     console.log(chalk.green("History file written succcesfully ✓"));
   } catch (err) {
     console.error(err);
+  }
+
+  verifyCategories(hideout.modules);
+
+  if (notFoundItems.length) {
+    console.log("The following items were not found:");
+    notFoundItems.forEach((item) => {
+      console.log(chalk.red(item));
+    });
   }
 };
 
